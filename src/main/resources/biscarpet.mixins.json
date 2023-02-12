@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "si.bismuth.biscarpet.mixin",
+  "package": "bismuth.adsen.biscarpet.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [],
   "client": [
