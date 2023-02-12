@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package si.bismuth.biscarpet.example;
 
 import net.fabricmc.api.ModInitializer;
 
