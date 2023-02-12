@@ -17,7 +17,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "bismuth.adsen.biscarpet.ExampleMod"
+      "bismuth.biscarpet.BismuthCarpet"
     ]
   },
   "mixins": [

@@ -1,4 +1,4 @@
-package bismuth.adsen.biscarpet.mixin;
+package bismuth.biscarpet.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
